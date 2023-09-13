@@ -1,2 +1,2 @@
 # FlashloanContract
-Flash loan contract with only the loan and withdraw functionality. Abritrage opportunity finder separate
+Solidity Flash loan contract on AAVE with only the loan and withdraw functionality. Abritrage opportunity finder separate
